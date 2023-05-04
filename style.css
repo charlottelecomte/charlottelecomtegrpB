@@ -1,0 +1,92 @@
+body{text-align: center;
+	font-family: 'Anuphan', sans-serif;
+background: #D66D75;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E29587, #D66D75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E29587, #D66D75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+
+ul{text-align: left;}
+
+h1{
+	color: red;
+	font-family: arial;
+
+}
+
+h2 {color: green;}
+
+.frame { 
+	background: white;
+	border: dashed 10px green;
+	border-radius: 50px;
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 10px 10px 10px green;
+
+}
+
+.frame2 {
+	background: white;
+	border: dashed 10px green;
+	border-radius: 50px;
+	padding: 50px;
+	margin: 50px;
+	box-shadow: 10px 10px 10px pink;
+}
+
+.avatar { 
+width: 250px;
+height: 250px; 
+border-radius: 50%;
+object-fit: cover;
+box-shadow: 10px 10px 10px grey;} 
+
+
+.galery {
+
+display: flex; box-shadow: ;
+justify-content: space-between;
+height: 300px;
+align-items: center;
+
+}
+
+.pizzas {
+	width: 200px;
+	height: 400px;
+	object-fit: cover;
+}
+
+
+.map {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.logo{
+border-radius: 50%;
+height: 100px;
+width: 100px;
+object-fit: cover;
+
+}
+.mynavbar{background: color;color: white;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+
+.link{
+	margin-left: 30px;
+}
+
+
+
+
+
